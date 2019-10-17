@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.12)
+cmake_minimum_required(VERSION 3.10)
 project(tempcoding)
 
 add_library(data_parallel data_parallel.cc data_parallel.h)
